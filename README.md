@@ -3,7 +3,7 @@ M5Stack UIFlow and Qubitro IoT Platform: Getting Started
 Getting started with Qubitro and M5Stack in UIFlow. See how to create a project in Qubitro portal, add a device, use MQTT credentials in UIFlow. Analyze the data from our M5Stack Core Iot unit and make a dashboard. 
 
 Video on YouTube: https://youtu.be/yJ0mVvhxbIw
-![]()
+![](https://github.com/ShotokuTech/UIFlow_w_Qubitro/blob/main/qubitro.png)
 
 The hardware:
 
